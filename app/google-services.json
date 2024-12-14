@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939146686028",
+    "firebase_url": "https://fashionnova-37ab7-default-rtdb.firebaseio.com",
+    "project_id": "fashionnova-37ab7",
+    "storage_bucket": "fashionnova-37ab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939146686028:android:ecf7ba65b402521946cee9",
+        "android_client_info": {
+          "package_name": "com.example.fashionnova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939146686028-g9kro12g62e2h4i3cahjiesrbjt7lg5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashionnova",
+            "certificate_hash": "587692fb8a2b14d76b6bc31ecc9ce60d823a0af1"
+          }
+        },
+        {
+          "client_id": "939146686028-3c66sgou4qsasiuognavba80r2ff65e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09083Fkd9-pwOTECpLccLbM56txmeiNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939146686028-3c66sgou4qsasiuognavba80r2ff65e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
